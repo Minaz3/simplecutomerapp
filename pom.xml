@@ -35,4 +35,4 @@
         <url>http://54.165.123.224:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
 </distributionManagement>
-</projec>
+</project>
