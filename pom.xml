@@ -25,4 +25,14 @@
          </plugin>
       </plugins>
    </build>
-</project>
+<distributionManagement>
+    <repository>
+        <id>nexus</id>
+        <url>http://54.165.123.224:8081/repository/maven-releases/</url>
+    </repository>
+    <snapshotRepository>
+        <id>nexus</id>
+        <url>http://54.165.123.224:8081/repository/maven-snapshots/</url>
+    </snapshotRepository>
+</distributionManagement>
+</projec>
